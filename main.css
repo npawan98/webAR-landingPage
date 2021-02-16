@@ -64,7 +64,7 @@ body, html {
 }
 
 .logo{
-  height: 50px;
-  width: 50px;
+  height: 75px;
+  width: 75px;
   object-fit: contain;
 }
