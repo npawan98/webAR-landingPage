@@ -5,7 +5,10 @@ body, html {
   }
   
   .bgimg {
-    background-image: url('./Asserts/danielle-gehler-dvHFa8FJ9RY-unsplash.jpg');
+    background-image: linear-gradient(
+        rgba(0,0,0,0.1),
+        rgba(0,0,0,0.8)
+        ),url('./Asserts/danielle-gehler-dvHFa8FJ9RY-unsplash.jpg');
     height: 100%;
     background-position: center;
     background-size: cover;
